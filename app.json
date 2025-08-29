@@ -17,24 +17,24 @@
   "success_url": "/",
   "env": {
     "BOT_NAME": {
-      "description": "Name of your bot"
+      "description": "XRe"
     },
     "PREFIX": {
-      "description": "Prefix of your bot"
+      "description": "."
     },
     "CRON": {
-      "description": "\"Cron\" string to clear all chats of the bot at specified time",
+      "description": "0 */6 * * *",
       "required": false
     },
     "SESSION_ID": {
-      "description": "A string for the session to be classified and to get access to the server endpoints"
+      "description": "xd4F3boR#vaVH-6HYy41xVKrWaYZPs3t8YhkgZ7hAXLDzr62foDA"
     },
     "ADMINS": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (separated by a comma \",\")",
+      "description": "94718911969",
       "required": false
     },
     "MONGO_URI": {
-      "description": "A secret String for Mongodb Connection.(Required)"
+      "description": "mongodb+srv://tokimoko88<7K8AAod22wMCeX5s>@cluster0.17818p0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "EIF": "https://express-is-fun.herokuapp.com/api",
     "ADMIN_GROUP_JID": {
